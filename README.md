@@ -57,5 +57,7 @@ educates users on creating secure passwords.
 - Name: Muntaha Ghafoor
 - LinkedIn: https://www.linkedin.com/in/muntaha-ghafoor-2b87a9386
 - GitHub: https://github.com/Muntaha-Ghafoor
+- GitHub Repository: https://github.com/Muntaha-Ghafoor/Password-Auditor-Tool
+-  Live Demo: https://muntaha-ghafoor.github.io/Password-Auditor-Tool/
 ## 📜 License
 MIT License
